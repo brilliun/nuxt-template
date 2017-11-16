@@ -1,8 +1,8 @@
 {
-  "name": "{{ name }}",
+  "name": "Nuxt Template",
   "version": "1.0.0",
-  "description": "{{ description }}",
-  "author": "{{ author }}",
+  "description": "description",
+  "author": "Guangyao Liu",
   "private": true,
   "scripts": {
     "dev": "nuxt",
