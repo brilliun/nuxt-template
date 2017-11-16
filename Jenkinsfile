@@ -1,5 +1,5 @@
 pipeline {
-    node any
+    agent node
     stages {
         stage('Preparation') { // for display purposes
             sh 'npm install'
